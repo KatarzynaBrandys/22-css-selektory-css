@@ -1,0 +1,5 @@
+p {color:cornflowerblue;}
+
+h1, h3 {background-color: lightblue;}
+
+h1 + h3 {color:lightcoral;}
